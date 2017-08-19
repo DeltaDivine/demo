@@ -1,0 +1,31 @@
+h1 {
+    padding-bottom: 20px;
+}
+.fa:hover {
+    opacity: 0.7;
+}
+.fa{
+    font-size: 25px;
+    padding: 15px 20px;
+    width: 15px;
+    border-radius: 100px;
+    color: white;
+}
+.fa-facebook{
+    background: #3333cc;
+}
+.fa-google{
+    background: #cc3300 ;
+}
+.fa-linkedin{
+    background: #6699ff;
+}
+.fa-skype{
+    background: #0080ff;
+}
+.fa-twitter{
+    background: #3399ff;
+}
+.fa-pinterest{
+    background: #ff3300;
+}

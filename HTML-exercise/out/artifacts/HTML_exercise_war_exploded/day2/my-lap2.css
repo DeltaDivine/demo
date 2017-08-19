@@ -1,0 +1,18 @@
+h1 {
+    text-transform: uppercase;
+    font-family: Tahoma;
+}
+p {
+    font-size: 11px;
+    font-family: Tahoma;
+}
+ul,li {
+    font-size: 11px;
+    font-family: Consolas;
+}
+.red{
+    color: red;
+}
+i{
+    color: red;
+}
